@@ -1,6 +1,6 @@
 # Simulador de Pipeline y Dependencias | Arquitectura de Computadores
 
-Repositorio oficial para el desarrollo del **Proyecto 3 de Arquitectura de Computadores I (GR20)** en el Tecnológico de Costa Rica (TEC). Consiste en un simulador modular desarrollado en **C11** para evaluar el desempeño de un pipeline de 5 etapas y cómo el uso de rutas de forwarding puede reducir el impacto de las dependencias.
+Repositorio oficial para el desarrollo del **Proyecto 3 de Arquitectura de Computadores I (GR20)** en el Tecnológico de Costa Rica (TEC). Consiste en un simulador modular desarrollado en **C11** para evaluar el desempeño de un **pipeline de 5 etapas** y cómo el uso de rutas de **forwarding** puede reducir el impacto de las **dependencias**.
 
 ---
 
