@@ -9,7 +9,7 @@ Repositorio oficial para el desarrollo del **Proyecto 3 de Arquitectura de Compu
 | Nombre Completo | Carné | Usuario de GitHub |
 | :--- | :---: | :---: |
 | **Luis Pablo Vargas Muñoz** | `2021490483` | [@SkyVM888](https://github.com/SkyVM888) |
-| **Carlos Daniel Hurtado Villalobos** | `2021067615` | [@Charlespixel](https://github.com/Charlespixel) |
+| **Carlos Daniel Hurtado Villalobos** | `2021067615` | [@Charles1212pixel](https://github.com/Charles1212pixel) |
 | **Brayan Ariel Vargas Rojas** | `2021028522` | [@BrayanVR21](https://github.com/BrayanVR21) |
 
 ---
